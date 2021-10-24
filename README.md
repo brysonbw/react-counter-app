@@ -1,3 +1,13 @@
+React Counter App
+
+Simple Counter App: Buttons to increase or decrease number and reset to zero
+
+Technologies:
+React
+HTML
+CSS
+Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
